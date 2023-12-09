@@ -55,6 +55,9 @@
     .testimonial-item {
         margin-top: 44px;
     }
+
+   
+    
 }
 @media (max-width:968px){
     .service-box {
@@ -242,7 +245,7 @@
     display: none;
 }
 .mobile-menu-check {
-	display: none;
+	display:none;
 }
 @media (max-width:724px){
     .member-bio h4 {
@@ -428,6 +431,7 @@
         width: 17px;
         height: 17px;
         opacity: 0;
+        display: block;
         cursor: pointer;
     }
     .primary-menu span {
